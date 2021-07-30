@@ -2,10 +2,11 @@
 
 ## Description
 
-Ban Music Playeris the offline music player. It fetches all the audio files from your phone memory and displays them in one place and sorted order. Choose the file from the list and play them.
+Ban Music Playeris the offline music player. It fetches all the audio files from your phone memory and displays them in one place and sorted order. Choose the file from the list and play them. You can search the desired song, artist or album from the search bar. Also can sort the list by artist name, song name and album name. 
 
 ## Screenshots
-[!Screenshot](/blob/main/images/screenshot_1.png)
+<img src="https://raw.githubusercontent.com/Shubhojeetban/MusicPlayer/main/images/screenshot_1.png" width=235 height= 400>     <img src="https://raw.githubusercontent.com/Shubhojeetban/MusicPlayer/main/images/screenshot_2.png" width=235 height= 400>   <img src="https://raw.githubusercontent.com/Shubhojeetban/MusicPlayer/main/images/screenshot_3.png" width=235 height= 400>   <img src="https://raw.githubusercontent.com/Shubhojeetban/MusicPlayer/main/images/screenshot_4.png" width=235 height= 400>
+
 
 ## Installation
 
